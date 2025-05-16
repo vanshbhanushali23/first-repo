@@ -1,5 +1,4 @@
 #demo repository
 
-some description .....
-
+some description!
 
